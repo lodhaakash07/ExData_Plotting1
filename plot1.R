@@ -9,7 +9,7 @@
 ##Creating a final data set for this peer assignment has been done in
 ## dataProcess.R R script
 source("./dataProcess.R") # This has all the code for getting the data needed
-## The required data is saved in data.txt
+## The required data is saved in data.csv
 
 # Read the data
 data <- read.csv("./data.csv")
